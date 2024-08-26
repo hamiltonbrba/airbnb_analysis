@@ -5,7 +5,7 @@
 This project examines the impact of seasonal trends on Airbnb listings, focusing on metrics such as price, number of reviews, reviews per month, and availability. Significant seasonal variations were found, with prices peaking in Late Summer and guest activity highest in Late Summer and Early Fall. These insights can help optimize pricing strategies and booking decisions for both hosts and guests.
 
 ### Project Description/Outline
-We analyzed how seasonal trends affect various Airbnb metrics, such as price, number of reviews, reviews per month, and availability. The project identifies patterns and trends that inform hosts and potential guests about optimal times to rent or stay at an Airbnb property.
+I analyzed how seasonal trends affect various Airbnb metrics, such as price, number of reviews, reviews per month, and availability. The project identifies patterns and trends that inform hosts and potential guests about optimal times to rent or stay at an Airbnb property.
 
 ### Research Questions
 1. How do average nightly rental prices vary by season?
