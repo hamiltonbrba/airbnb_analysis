@@ -80,7 +80,3 @@ To maintain focus on typical Airbnb listings, properties priced above $350 per n
 ### Limitations
 - **Date Issues**: Limited date availability restricted year-round stay analysis.
 - **Price Outliers**: The analysis focused on listings priced $350 or below to maintain data relevance.
-
----
-
-This version eliminates the old histogram and provides a streamlined analysis.
