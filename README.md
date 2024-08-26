@@ -1,6 +1,3 @@
-Certainly! Here’s the updated README with the old histogram omitted:
-
----
 
 # Analyzing Seasonal Trends and Their Impact on Airbnb Prices
 
